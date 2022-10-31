@@ -1,0 +1,119 @@
+﻿body {
+    background-color: #efebeb;
+}
+
+#content {
+    width: 1024px;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid #808080;
+}
+
+#head {
+    padding: 50px 20px;
+    height: 50px;
+    font-size: 29px;
+    color: #65233d;
+    font-weight: bold;
+    border-bottom: 1px solid #808080;
+}
+
+#main {
+    min-height: 800px;
+    width: 100%;
+}
+
+#left {
+    float: left;
+    width: 20%;
+    min-height: 800px;
+    border-right: solid 1px #808080;
+}
+
+
+#right {
+    width: 75%;
+    float: right;
+    min-height: 800px;
+    padding-top: 20px;
+    margin-right: 12px;
+}
+
+.menu {
+    width: 98%;
+    margin: 0px auto;
+}
+
+.item {
+    display: block;
+    width: 100%;
+    line-height: 200%;
+    text-align: center;
+    text-decoration: none;
+    border-bottom: 1px dashed #808080;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.line {
+    height: 2px;
+    border-bottom: 2px solid #808080;
+    margin-top: 9px;
+    margin-bottom: 15px;
+}
+
+.inForm {
+    width: 98%;
+}
+
+.row {
+    width: 95%;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.inTitle {
+    width: 20%;
+    float: left;
+    background-color: #edeaea;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.inForm {
+    float: right;
+    width: 78%;
+    padding: 1px;
+    border-bottom: 1px solid #edeaea;
+    height: 24px;
+}
+
+    .inForm input {
+        width: 100%;
+        border: none;
+    }
+
+
+.stuInfo {
+    padding: 20px;
+    width: 24%;
+    float: left;
+    margin-top: 15px;
+    margin-right: 2%;
+    border: 1px solid #808080;
+}
+
+    .stuInfo .tit {
+        font-size: 25px;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+
+    .stuInfo .detail {
+        font-size: 14px;
+        color: #808080;
+        margin-right: 5px;
+    }

@@ -1,0 +1,6 @@
+C:\Users\86188\Desktop\WebApple\CSqlHelper\bin\Debug\CSqlHelper.dll
+C:\Users\86188\Desktop\WebApple\CSqlHelper\bin\Debug\CSqlHelper.pdb
+C:\Users\86188\Desktop\WebApple\CSqlHelper\obj\Debug\CSqlHelper.csproj.AssemblyReference.cache
+C:\Users\86188\Desktop\WebApple\CSqlHelper\obj\Debug\CSqlHelper.csproj.CoreCompileInputs.cache
+C:\Users\86188\Desktop\WebApple\CSqlHelper\obj\Debug\CSqlHelper.dll
+C:\Users\86188\Desktop\WebApple\CSqlHelper\obj\Debug\CSqlHelper.pdb
